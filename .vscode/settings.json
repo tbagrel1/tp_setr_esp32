@@ -1,5 +1,13 @@
 {
     "files.associations": {
-        "functional": "c"
+        "functional": "c",
+        "*.ipp": "c",
+        "*.tcc": "c",
+        "memory": "c",
+        "fstream": "c",
+        "istream": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "streambuf": "c"
     }
 }
